@@ -1,16 +1,12 @@
-body* {
-background-color: rgb(253, 251, 251);
-
+#cabecalho {
+    background-color: rgb(253, 251, 251);
+    font-size: 25px;
+    line-height: 2px;
+    margin-top: 15px;
+    text-align: center;
+    position: static;
+    font-weight: bold;
 }
-
-h1 {
-font-size: 25px;
-line-height: 2px;
-margin-top: 15px;
-text-align: center;
-position: static;
-}
-
 img{
     margin-top: 15px;
 }
