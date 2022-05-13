@@ -1,12 +1,16 @@
 #cabecalho {
     background-color: rgb(253, 251, 251);
-    font-size: 25px;
-    line-height: 2px;
-    margin-top: 15px;
-    text-align: center;
-    position: static;
-    font-weight: bold;
+    top: 0;
+    position: fixed;
 }
+
+h1{
+   font-size: 25px;
+   font-weight: bold;
+   text-align: center;
+   margin-top: 20px;
+}
+
 img{
     margin-top: 15px;
 }
