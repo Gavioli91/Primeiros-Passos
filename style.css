@@ -46,7 +46,6 @@ p {
 font-size: 18px;
 line-height: 25px;
 font-family: 'Times New Roman', Times, serif;
-
 }
 
 h5 {
@@ -54,14 +53,11 @@ font-size: 25px;
 margin-left: 1100px;
 line-height: 25px;
 font-family: 'Times New Roman', Times, serif;
-
-
 }
 p1{
     font-size: 18px;
     margin-left: 1100px;
-    font-family: 'Times New Roman', Times, serif;
-    
+    font-family: 'Times New Roman', Times, serif;  
 }
 
 #rodape{
