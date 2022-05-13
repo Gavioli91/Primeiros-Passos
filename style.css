@@ -1,10 +1,11 @@
 #cabecalho {
     top: 0;
     position: fixed;
+    background-color: yellow;
 }
 
 body {
-    background-color: black (253, 251, 251)
+    background-color: rgb(253, 251, 251)
 }
 
 h1{
@@ -14,8 +15,8 @@ h1{
    margin-top: 20px;
 }
 
-img{
-    margin-top: 15px;
+#minha_foto {
+    margin-top: 80px;
 }
 
 h2 {
@@ -42,6 +43,7 @@ font-weight: bold;
 
 h4 {
 font-size: 25px;
+line-height: 10px;
 font-family: 'Times New Roman', Times, serif;
 }
 
@@ -53,15 +55,18 @@ font-family: 'Times New Roman', Times, serif;
 
 h5 {
 font-size: 25px;
-line-height: 25px;
+line-height: 10px;
 font-family: 'Times New Roman', Times, serif;
 }
-p{
+p1 {
     font-size: 18px;
+    line-height: 25px;
     font-family: 'Times New Roman', Times, serif;  
 }
 
 #rodape{
     font-size: 23px;
+    line-height: 25px;
     font-family: 'Times New Roman', Times, serif;
+    margin-top: 50px;
 }
